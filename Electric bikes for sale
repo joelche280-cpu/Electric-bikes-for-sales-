@@ -1,0 +1,59 @@
+
+const products = [
+  {
+    id: 1,
+    name: "Sur-Ron Style Electric Dirt Bike",
+    category: "Motorbike",
+    price: 3500,
+    description: "Premium off-road electric dirt bike.",
+    image: "images/IMG_1477.jpeg"
+  },
+  {
+    id: 2,
+    name: "Premium Electric Dirt Bike",
+    category: "Motorbike",
+    price: 3200,
+    description: "High-performance off-road design.",
+    image: "images/IMG_1479.jpeg"
+  },
+  {
+    id: 3,
+    name: "ZONVEER Electric Dirt Bike",
+    category: "Motorbike",
+    price: 1800,
+    description: "Sporty electric dirt bike design.",
+    image: "images/IMG_1470.jpeg"
+  },
+  {
+    id: 4,
+    name: "STRIKE Electric Dirt Bike",
+    category: "Motorbike",
+    price: 2500,
+    description: "Modern off-road electric motorcycle.",
+    image: "images/IMG_1472.jpeg"
+  },
+  {
+    id: 5,
+    name: "Premium Off-Road Electric Bike",
+    category: "Motorbike",
+    price: 2800,
+    description: "Off-road electric motorcycle.",
+    image: "images/IMG_1471.jpeg"
+  },
+  {
+    id: 6,
+    name: "Sur-Ron Electric Motorcycle",
+    category: "Motorbike",
+    price: 3500,
+    description: "Premium electric motorcycle.",
+    image: "images/IMG_1467.jpeg"
+  },
+  {
+    id: 7,
+    name: "Electric Dirt Bike Collection",
+    category: "Motorbike",
+    price: 3000,
+    description: "Explore our electric dirt bike collection.",
+    image: "images/IMG_1464.jpeg"
+  }
+];
